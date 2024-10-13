@@ -1,0 +1,9 @@
+void main() {
+  print("3");
+  }
+
+//or second way
+
+void main() {
+  print(3);
+  }
